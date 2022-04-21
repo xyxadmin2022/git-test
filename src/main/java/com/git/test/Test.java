@@ -11,5 +11,6 @@ public class Test {
         System.out.println("master修改了");
         System.out.println("hot-fix修改新");
         System.out.println("远程库");
+        System.out.println("clone准备");
     }
 }
