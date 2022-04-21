@@ -10,5 +10,6 @@ public class Test {
         System.out.println("你好世界芜湖起飞");
         System.out.println("master修改了");
         System.out.println("hot-fix修改新");
+        System.out.println("远程库");
     }
 }
